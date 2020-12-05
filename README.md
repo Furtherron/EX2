@@ -1,4 +1,4 @@
-# exjuegos2
+# ExamenFinal Juegos 2 Flutter
 
 A new Flutter application.
 
